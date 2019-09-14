@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The biggest challenge in building the app was definetly figuring out exactly how RecyclerView and Item Adapter worked together and then connecting that back to MainActivity. 
 
 ## License
 
